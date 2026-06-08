@@ -1,7 +1,6 @@
 # NoLimit DS Test — Analisis Sentimen Bahasa Indonesia
 
-Solusi untuk **Task A (Classification)**: klasifikasi sentimen teks berbahasa
-Indonesia ke dalam tiga kelas — **positive / neutral / negative** — menggunakan
+Solusi untuk **Task A (Classification)**: klasifikasi sentimen teks ke dalam tiga kelas — **positive / neutral / negative** — menggunakan
 model Hugging Face dan embeddings dengan pencarian FAISS.
 
 ## Ringkasan Pendekatan
